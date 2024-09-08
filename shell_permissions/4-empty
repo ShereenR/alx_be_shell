@@ -1,6 +1,9 @@
 #!/bin/bash
 touch hello
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 3c6548a512514cea36f88b964af212034534ff78
 
